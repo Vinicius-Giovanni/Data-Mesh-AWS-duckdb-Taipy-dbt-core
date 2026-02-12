@@ -14,7 +14,7 @@ Construção de lakehouse
 ![AWS](https://img.shields.io/badge/AWS-Environment-yellow?style=for-the-badge)
 ![duckdb](https://img.shields.io/badge/duckdb-Data-blue?style=for-the-badge)
 ![Taipy](https://img.shields.io/badge/Taipy-Control-blue?style=for-the-badge)
-![dbt-core](https://img.shields.io/badge/dbt-core-Control-blue?style=for-the-badge)
+![dbt-core](https://img.shields.io/badge/dbt%20core-Control-blue?style=for-the-badge)
 
 -----
 
