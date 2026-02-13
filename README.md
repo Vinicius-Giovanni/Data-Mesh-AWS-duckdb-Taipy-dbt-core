@@ -83,8 +83,8 @@ Quando temos um problema de formas de consumir ou tratar um dado, temos duas par
 
 **Federated Governance**
 
-![Security Policy](https://img.shields.io/badge/Security%20Policy-Teal?style=for-the-badge)
-![Compliance Policy](https://img.shields.io/badge/Compliance%20Policy-Coral?style=for-the-badge)
-![Interoperability Policy](https://img.shields.io/badge/Interoperability%20Policy-Lavender?style=for-the-badge)
-![Documentation Policy](https://img.shields.io/badge/Documentation%20Policy-Amber?style=for-the-badge)
-![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-Mint%20Green?style=for-the-badge)
+![Security Policy](https://img.shields.io/badge/Security%20Policy-0D1117?style=for-the-badge&color=2ECC71)
+![Compliance Policy](https://img.shields.io/badge/Compliance%20Policy-0D1117?style=for-the-badge&color=E74C3C)
+![Interoperability Policy](https://img.shields.io/badge/Interoperability%20Policy-0D1117?style=for-the-badge&color=9B59B6)
+![Documentation Policy](https://img.shields.io/badge/Documentation%20Policy-0D1117?style=for-the-badge&color=F39C12)
+![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-0D1117?style=for-the-badge&color=1ABC9C)
