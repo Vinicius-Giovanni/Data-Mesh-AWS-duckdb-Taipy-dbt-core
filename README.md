@@ -74,3 +74,17 @@ Já o **Data Mesh** que é o assunto abordado aqui, possui as mesmas capacidades
 ![Data Silos](assets/data_sllos.png)
 
 Data Silos é denominados quando existem diversos ambientes de dados separados entre as áreas de negocios de uma empresa, é onde o Data Mesh entra e organiza os Data Silos em **Use-case-especific**.
+
+-----
+
+#### Ecossistema de Contrato de Dados
+
+Quando temos um problema de formas de consumir ou tratar um dado, temos duas partes interessantes:
+
+**Federated Governance**
+
+![Security Policy](https://img.shields.io/badge/Security%20Policy-Teal?style=for-the-badge)
+![Compliance Policy](https://img.shields.io/badge/Compliance%20Policy-Coral?style=for-the-badge)
+![Interoperability Policy](https://img.shields.io/badge/Interoperability%20Policy-Lavender?style=for-the-badge)
+![Documentation Policy](https://img.shields.io/badge/Documentation%20Policy-Amber?style=for-the-badge)
+![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-Mint%20Green?style=for-the-badge)
